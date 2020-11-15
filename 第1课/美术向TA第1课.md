@@ -7,7 +7,7 @@
 
 界面设置
 
-![image-20201110225206465](https://github.com/zyu0/learningta/blob/gh-pages/%E7%AC%AC1%E8%AF%BE/assets/image-20201110225206465.png)
+![image-20201110225206465](第1课/assets/image-20201110225206465.png)
 
 console报红字则出bug
 
