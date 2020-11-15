@@ -7,7 +7,7 @@
 
 界面设置
 
-![image-20201110225206465](assets/image-20201110225206465.png)
+![image-20201110225206465](第1课/assets/Snipaste_2020-08-11_23-08-44.png)
 
 console报红字则出bug
 
